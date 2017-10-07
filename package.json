@@ -16,5 +16,6 @@
     "babelify": "^7.3.0",
     "browserify": "^14.4.0",
     "budo": "^10.0.4"
-  }
+  },
+  "private": true
 }
